@@ -1,0 +1,5 @@
+# Dirsearch started Thu Jul 11 15:45:35 2024 as: /home/kali/Documents/KaliApplications/dirsearch/dirsearch.py -u www.gapincsustainability.com -e php --output=/home/kali/Documents/Recon/www.gapincsustainability.com_recon/dirsearch
+
+404     9B   http://www.gapincsustainability.com/%C0%AE%C0%AE%C0%AF
+404     9B   http://www.gapincsustainability.com/%ff
+404     9B   http://www.gapincsustainability.com/servlet/%C0%AE%C0%AE%C0%AF
