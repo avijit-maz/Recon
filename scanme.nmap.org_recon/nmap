@@ -1,6 +1,6 @@
-Starting Nmap 7.93 ( https://nmap.org ) at 2024-07-12 14:00 IST
+Starting Nmap 7.93 ( https://nmap.org ) at 2024-07-16 13:47 IST
 Nmap scan report for scanme.nmap.org (45.33.32.156)
-Host is up (0.35s latency).
+Host is up (0.34s latency).
 Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
 Not shown: 993 filtered tcp ports (no-response)
 PORT      STATE SERVICE
@@ -12,4 +12,4 @@ PORT      STATE SERVICE
 9929/tcp  open  nping-echo
 31337/tcp open  Elite
 
-Nmap done: 1 IP address (1 host up) scanned in 26.32 seconds
+Nmap done: 1 IP address (1 host up) scanned in 27.52 seconds
