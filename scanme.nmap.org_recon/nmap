@@ -1,2 +1,12 @@
-Starting Nmap 7.93 ( https://nmap.org ) at 2024-09-11 14:26 IST
-Nmap done: 0 IP addresses (0 hosts up) scanned in 0.27 seconds
+Starting Nmap 7.93 ( https://nmap.org ) at 2024-09-20 13:47 IST
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.35s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9929/tcp  open  nping-echo
+31337/tcp open  Elite
+
+Nmap done: 1 IP address (1 host up) scanned in 40.11 seconds

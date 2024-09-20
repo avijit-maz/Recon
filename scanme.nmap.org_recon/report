@@ -1,5 +1,10 @@
-This scan was created on Wed Sep 11 02:27:05 PM IST 2024
+This scan was created on Fri Sep 20 01:47:51 PM IST 2024
 Results for Nmap:
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9929/tcp  open  nping-echo
+31337/tcp open  Elite
 Results of Dirsearch:
 # Dirsearch started Fri Aug 30 13:52:23 2024 as: /home/kali/Documents/KaliApplications/dirsearch/dirsearch.py -u scanme.nmap.org -e php --output=/home/kali/Documents/Recon/scanme.nmap.org_recon/dirsearch
 
