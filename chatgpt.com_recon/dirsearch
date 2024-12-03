@@ -1,14 +1,1 @@
-# Dirsearch started 2024-12-03 18:32:22 as: /media/sf_Kali_Share/kali/Documents/KaliApplications/dirsearch/dirsearch.py -u chatgpt.com -e php --output-file=/media/sf_Kali_Share/kali/Documents/Recon/chatgpt.com_recon/dirsearch
-
-200   268B http://chatgpt.com/%2e%2e;/test
-308    1KB http://chatgpt.com/.well-known/acme-challenge/dtfy  ->  https://chat-identity-edge-onramp.unified-21.api.openai.com/chat/frontend/.well-known/acme-challenge/dtfy
-403    24B http://chatgpt.com/\..\..\..\..\..\..\..\..\..\etc\passwd
-403    24B http://chatgpt.com/a%5c.aspx
-403    24B http://chatgpt.com/admin%20/
-403    24B http://chatgpt.com/admin/%3bindex/
-403    24B http://chatgpt.com/examples/jsp/%252e%252e/%252e%252e/manager/html/
-403    24B http://chatgpt.com/login.wdm%20
-403    24B http://chatgpt.com/New%20folder%20(2)
-403    24B http://chatgpt.com/New%20Folder
-403    24B http://chatgpt.com/phpliteadmin%202.php
-403    24B http://chatgpt.com/Read%20Me.txt
+Results for Dirsearch:
