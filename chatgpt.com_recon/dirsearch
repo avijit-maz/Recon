@@ -1,1 +1,12 @@
-Results for Dirsearch:
+
+308    1KB http://chatgpt.com/.well-known/acme-challenge/dtfy  ->  https://chat-identity-edge-onramp.unified-22.api.openai.com/chat/frontend/.well-known/acme-challenge/dtfy
+403    24B http://chatgpt.com/\..\..\..\..\..\..\..\..\..\etc\passwd
+403    24B http://chatgpt.com/a%5c.aspx
+403    24B http://chatgpt.com/admin%20/
+403    24B http://chatgpt.com/admin/%3bindex/
+403    24B http://chatgpt.com/examples/jsp/%252e%252e/%252e%252e/manager/html/
+403    24B http://chatgpt.com/login.wdm%20
+403    24B http://chatgpt.com/New%20Folder
+403    24B http://chatgpt.com/New%20folder%20(2)
+403    24B http://chatgpt.com/phpliteadmin%202.php
+403    24B http://chatgpt.com/Read%20Me.txt
