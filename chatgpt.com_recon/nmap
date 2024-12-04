@@ -1,7 +1,7 @@
-Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-12-04 18:51 IST
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-12-04 19:01 IST
 Nmap scan report for chatgpt.com (172.64.155.209)
-Host is up (0.025s latency).
-Other addresses for chatgpt.com (not scanned): 104.18.32.47 2606:4700:8d92:7cbc:c2d9:cb:5ff2:75c4
+Host is up (0.027s latency).
+Other addresses for chatgpt.com (not scanned): 104.18.32.47 2606:4700:8d92:7cbc:c2d9:bc:5ff2:75c4
 Not shown: 993 filtered tcp ports (no-response)
 PORT     STATE SERVICE
 21/tcp   open  ftp
@@ -12,4 +12,4 @@ PORT     STATE SERVICE
 8080/tcp open  http-proxy
 8443/tcp open  https-alt
 
-Nmap done: 1 IP address (1 host up) scanned in 7.05 seconds
+Nmap done: 1 IP address (1 host up) scanned in 14.91 seconds
